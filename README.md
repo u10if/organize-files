@@ -36,13 +36,13 @@ Each category has a predefined set of file extensions (e.g., `.jpg`, `.pdf`, `.m
 
 1. Clone the repository or download the script:
     ```bash
-    git clone https://github.com/yourusername/file-organizer-script.git
-    cd file-organizer-script
+    git clone https://github.com/u10if/organize-files.git
+    cd organize-files
     ```
 
 2. Run the script:
     ```bash
-    python3 file_organizer.py
+    python3 organize.py
     ```
 
 ## Usage
@@ -53,7 +53,7 @@ Each category has a predefined set of file extensions (e.g., `.jpg`, `.pdf`, `.m
 
 Example usage:
 ```bash
-python3 file_organizer.py
+python3 organize.py
 Enter the directory to organize: /path/to/your/directory
 
 Example Directory Structure
@@ -109,5 +109,3 @@ Inspired by the need for an organized workspace and efficient file management. S
 
 Note: Always review and back up your files before running any file-organizing scripts.
 
-# organize-files
-# organize-files
