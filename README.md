@@ -1,4 +1,3 @@
-Here’s a detailed README.md file for sharing this Python file organizer project on GitHub. It includes instructions, features, usage, customization, and troubleshooting tips.
 
 # File Organizer Script
 
